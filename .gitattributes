@@ -1,0 +1,2 @@
+model_3000_100_a_v3.ai filter=lfs diff=lfs merge=lfs -text
+model_3000_1000_a_v3.ai filter=lfs diff=lfs merge=lfs -text
